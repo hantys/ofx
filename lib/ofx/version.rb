@@ -3,6 +3,6 @@ module OFX
     MAJOR = 0
     MINOR = 3
     PATCH = 3
-    STRING = "#{MAJOR}.#{MINOR}.#{PATCH}"
+    "#{MAJOR}.#{MINOR}.#{PATCH}"
   end
 end

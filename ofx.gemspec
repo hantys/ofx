@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "ofx/version"
 
 Gem::Specification.new do |s|
   s.name        = "ofx"
-  s.version     = OFX::Version::STRING
+  s.version     = '0.3.4'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Nando Vieira", "Anna Cruz"]
   s.email       = ["fnando.vieira@gmail.com", "anna.cruz@gmail.com"]
